@@ -1,0 +1,19 @@
+{
+  "name": "Pavlok-Calendar-Integration",
+"description": "Takes in a Google calendar, and sets up Pavlok reminder system",
+"readme":"README.txt",
+  "version": "0.0.1",
+  "dependencies": {
+    "express": "latest",
+    "mongodb": "latest",
+    "body-parser": "latest",
+    "validator": "latest",
+    "mongoose": "~4.0.1",
+    "googleapis": "latest",
+    "google-auth-library": "latest",
+    "moment": "latest"
+  },
+  "engines": {
+    "node": "0.10.x"
+  }
+}
